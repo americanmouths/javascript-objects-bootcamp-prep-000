@@ -1,5 +1,5 @@
 var playlist = {
-  song one: "song 1",
-  song two: "song 2",
-  song three: "song 3"
+  song: "song 1",
+  sosdd: "song 2",
+  sonasdd: "song 3"
 };
